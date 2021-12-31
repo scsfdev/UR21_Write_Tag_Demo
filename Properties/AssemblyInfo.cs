@@ -8,7 +8,7 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UR21 Write Tag Demo")]
-[assembly: AssemblyDescription("Created by Tin Maung Htay (scsfdev@gmail.com)")]
+[assembly: AssemblyDescription("Created by Tin Maung Htay")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyProduct("UR21 Write Tag Demo")]
 [assembly: AssemblyCompany("DIAS")]
